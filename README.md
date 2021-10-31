@@ -1,1 +1,1 @@
-# podex-adventure
+# pokedex-adventure
